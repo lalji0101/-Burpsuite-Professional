@@ -1,3 +1,5 @@
+# Why does the tool's browser not open?
+
 # Fix: Burp Suite Render "Could not connect to browser" (Ubuntu)
 
 **Platform:** Ubuntu Linux  
